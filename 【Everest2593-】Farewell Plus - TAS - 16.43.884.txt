@@ -2880,7 +2880,7 @@ console load monikafarewellbuffededition/0/1-FarewellBuffed
   14,R,U,C
   27,F,45
   27,F,75
-  18,F,367
+  18,F,36.7
    1,F,315
   50,F,296
   32,F,45
